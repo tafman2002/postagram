@@ -1,70 +1,38 @@
-# Getting Started with Create React App
+# Postagram: Amplify Photo Sharing Workshop
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Postagram is a robust full stack application that leverages the power of AWS Amplify, React, and GraphQL. It is a unique social platform that empowers users to share and view posts. This project showcases how to build a scalable and performant application with modern tech stacks.
 
-## Available Scripts
+![Demo Image](URL_TO_THE_DEMO_IMAGE)
 
-In the project directory, you can run:
+## Features
 
-### `npm start`
+1. User authentication.
+2. Post creation and viewing.
+3. Post deletion and editing (for respective authors).
+4. Commenting on posts.
+5. Real-time updates.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Prerequisites
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Before you begin, ensure you have met the following requirements:
 
-### `npm test`
+- You have installed Node.js (version 12.x.x recommended).
+- You have installed npm (comes with Node.js).
+- You have an AWS Account.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Workshop Link
+-[Workshop] (https://catalog.us-east-1.prod.workshops.aws/workshops/9586a55a-1f61-456c-ace9-b24f505d44a4/en-US)
 
-### `npm run build`
+## Technologies Used
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- [React](https://reactjs.org/)
+- [GraphQL](https://graphql.org/)
+- [AWS Amplify](https://aws.amazon.com/amplify/)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Getting Started
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Clone the repository to your local machine:
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+```bash
+git clone https://github.com/YOUR_USERNAME/postagram.git
+```
