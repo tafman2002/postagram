@@ -21,7 +21,7 @@ Before you begin, ensure you have met the following requirements:
 - You have an AWS Account.
 
 ## Workshop Link
--[Workshop] (https://catalog.us-east-1.prod.workshops.aws/workshops/9586a55a-1f61-456c-ace9-b24f505d44a4/en-US)
+- [Workshop] (https://catalog.us-east-1.prod.workshops.aws/workshops/9586a55a-1f61-456c-ace9-b24f505d44a4/en-US)
 
 ## Technologies Used
 
